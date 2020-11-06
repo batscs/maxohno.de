@@ -1,2 +1,2 @@
 # maxohno.de
-maxohno.de open source xd
+visit https://www.maxohno.de
